@@ -1,0 +1,1 @@
+Simple System Monitor created with PyQt5 as a final project for "Multiplatform programming in Qt"
